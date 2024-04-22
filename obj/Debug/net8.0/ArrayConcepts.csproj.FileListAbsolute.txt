@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\bin\Debug\net8.0\ArrayConcepts.exe
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\bin\Debug\net8.0\ArrayConcepts.deps.json
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\bin\Debug\net8.0\ArrayConcepts.runtimeconfig.json
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\bin\Debug\net8.0\ArrayConcepts.dll
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\bin\Debug\net8.0\ArrayConcepts.pdb
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ArrayConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ArrayConcepts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ArrayConcepts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ArrayConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ArrayConcepts.dll
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\refint\ArrayConcepts.dll
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ArrayConcepts.pdb
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ArrayConcepts.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ArrayConcepts\ArrayConcepts\obj\Debug\net8.0\ref\ArrayConcepts.dll
